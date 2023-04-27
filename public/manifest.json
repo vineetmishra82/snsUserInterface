@@ -1,0 +1,11 @@
+{
+  "short_name": "User Interface",
+  "name": "User Interface for SNS Inventory App",
+  "icons": [
+  
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
